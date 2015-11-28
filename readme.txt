@@ -1,4 +1,4 @@
-=== RP NR Disable === 
+=== NR Cron Disable === 
 Tags: new relic, cron
 Contributors: rpwordpress
 Requires at least: 3.0.1 
