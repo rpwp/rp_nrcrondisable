@@ -1,5 +1,6 @@
 === RP NR Disable === 
-Tags: new relic, cront 
+Tags: new relic, cron
+Contributors: rpwordpress
 Requires at least: 3.0.1 
 Tested up to: 4.3 
 Stable tag: 4.3 
@@ -10,8 +11,7 @@ Disable New Relic on the wp-cron page.
 
 == Description ==  
 
-This simple plugin disables New Relic reporting on the wp-cron task. 
-It's useful if you have a long running cron that is skewing performance data in New Relic.
+This simple plugin disables New Relic reporting on the wp-cron task.  It's useful if you have a long running cron that is skewing performance data in New Relic.
 
 == Installation ==  
 
